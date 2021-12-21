@@ -8,4 +8,6 @@
 3. Install gulp-cli
 	`npm install --global gulp-cli`
 
-###
+### Run
+1. run `gulp` to build/minify.
+2. `npm run` to run and build live preview.
